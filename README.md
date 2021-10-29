@@ -1,5 +1,4 @@
 
+![Welcome](/VINICIUS RUFFO (1)-min.gif?raw=true)
 
-
-
-<bold>Bem Vindo ao meu perfil no github !
+<b>Bem Vindo ao meu perfil no github !</b>
