@@ -3,7 +3,7 @@
 
 <br><b><p align=center>Bem Vindo ao meu perfil no github !</p></b>
 Sou um estudante de análise e desenvolvimento de sistemas, estudo na Universidade São Judas Tadeu
-atualmente estou no segundo semestre da minha graduação. E estou completamente apaixonado por programação
+atualmente estou no segundo semestre da minha graduação.Sou completamente apaixonado por programação e
 espero conseguir entrar o mais rápido possível no mercado.<br>
 <details>
         <summary><b>Certificados</b><i>(Clique para expandir)</i></summary>
