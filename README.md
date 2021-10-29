@@ -13,7 +13,7 @@ espero conseguir entrar o mais rápido possível no mercado.<br>
         <p>CursoEmVideo</p>
         </details>
  
-![Linkedin](https://www.linkedin.com/in/vinicius-ruffo-51b6b9210/)
+<a href="https://www.linkedin.com/in/vinicius-ruffo-51b6b9210/">▻Linkedin</a>
 
 <br><b><p align=center>Linguagens</p></b>
 <p float="center" align=center>
