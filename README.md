@@ -6,7 +6,7 @@ Sou um estudante de análise e desenvolvimento de sistemas, estudo na Universida
 atualmente estou no segundo semestre da minha graduação. E estou completamente apaixonado por programação
 espero conseguir entrar o mais rápido possível no mercado.<br>
 <details>
-        <summary><b>Certificados</b></summary>
+        <summary><b>Certificados</b><i>(Clique para expandir)</i></summary>
         ▸Java Foundations<br>
         <p>Oracle<br></p>
         ▸Java Básico [40 Horas]<br>
